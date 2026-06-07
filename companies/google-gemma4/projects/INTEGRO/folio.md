@@ -53,6 +53,9 @@ _How will this be built? What are the key components, architecture decisions, an
 
 ## How to Contribute
 
+https://github.com/amilmether/Folio.git
+
+
 _What roles are needed? What skills are required? How can someone get started?_
 
 **Skills Needed:**
